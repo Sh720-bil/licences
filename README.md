@@ -1,2 +1,2 @@
 # licences
-new repo
+new repoistre
